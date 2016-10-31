@@ -50,7 +50,7 @@
     "react": "^15.3.0",
     "victory-chart-native": "^1.2.0",
     "victory-core": "^9.0.2",
-    "victory-core-native": "^3.0.0",
+    "victory-core-native": "matejkriz/victory-core-native",
     "victory-pie-native": "^1.1.0"
   }
 }
